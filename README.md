@@ -25,5 +25,6 @@ Run the threat detection algorithm against the log file:
 ## 👨‍💻 Developer
 Developed by **Abhay Mirashi**
 Bachelor of Computer Applications (BCA)
+Bangalore University
 Specializing in Artificial Intelligence, Machine Learning, and Cybersecurity.
 
